@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         },
         {
-            name: "Ice-Cream",
+            name: "ice-Cream",
             img: "./asset/images/ice-cream.jpg"
 
         },
