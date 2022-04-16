@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         {
             name: "hotdog",
-            img: "./asset/images/hotdog.png"
+            img: "./asset/images/hotdog.jpg"
 
         },
         {
