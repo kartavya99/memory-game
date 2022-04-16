@@ -6,6 +6,8 @@ Memory games give space to critical thinking and that helps children nurture the
 
 # <img src = "asset/images/screenshot.png" width ="400">
 
+## https://kartavya99.github.io/memory-game/
+
 ## Technologies Used
 
 ### HTML
