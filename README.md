@@ -4,7 +4,7 @@ Memory games give space to critical thinking and that helps children nurture the
 
 ## Web application screenshot
 
-# <img src = "assets/images/screenshot.png" width ="400">
+# <img src = "asset/images/screenshot.png" width ="400">
 
 ## Technologies Used
 
